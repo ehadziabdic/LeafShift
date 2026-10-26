@@ -1,0 +1,2 @@
+main source:: https://www.kaggle.com/datasets/emmarex/plantdisease
+holdout test: https://github.com/pratikkayal/PlantDoc-Dataset
